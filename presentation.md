@@ -1,4 +1,6 @@
 # Agile used to be really cool
+---
+# Agile used to be really cool
 
 Wojtek Erbetowski
 
@@ -65,48 +67,39 @@ Even more changes and huge responsibility
 Trust & decision making
 
 ---
+![left](http://localhost:8000/images/loco.jpg)
 
-[train changing ...]
-
-http://stackoverflow.com/questions/11227809/why-is-it-faster-to-process-a-sorted-array-than-an-unsorted-array
-
----
-
-Have your organization optimized for good will
+> Now for the sake of argument, suppose this is back in the 1800s - before long distance or radio communication.
+-- http://stackoverflow.com/questions/11227809/why-is-it-faster-to-process-a-sorted-array-than-an-unsorted-array
 
 ---
+What is your organization optimized for?
 
+---
 Taking days off?
 
 ---
-
-What about Kanban limits?
+Kanban limits
 
 ---
-
 Salaries!
 
 ---
+![right fit](http://localhost:8000/images/the_decision_maker.jpg)
 
-[okładka decision maker]
-
----
-
-How to practice?
-It's unnatural
+> I soon realized that the more decisions I made, the less engaged others became, and the less ownership they had in the results. The problem was me.
+-- Dennis Bakke
 
 ---
+It is so unnatural!
 
+How do I practice?
+
+---
 Mindfullness
 
 ---
-
-Agile used to be really cool
-
----
-
-Now it's the status quo
+## Agile used to be really cool
 
 ---
-
 Keep improving, raise the bar and escape mediocrity
