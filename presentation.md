@@ -49,13 +49,7 @@ What does it mean?
 -- you
 
 ---
-Who is the boss?
-
----
-Everyone is!
-
----
-Self-esteem!
+##Self-esteem!
 
 ---
 But how to hire for that??
@@ -76,10 +70,12 @@ Trust & decision making
 What is your organization optimized for?
 
 ---
-Taking days off?
+##Taking days off?
 
 ---
 Kanban limits
+
+![inline](http://localhost:8000/images/kanban.jpg)
 
 ---
 Salaries!
@@ -91,7 +87,7 @@ Salaries!
 -- Dennis Bakke
 
 ---
-It is so unnatural!
+It is not natural!
 
 How do I practice?
 
@@ -100,6 +96,3 @@ Mindfullness
 
 ---
 ## Agile used to be really cool
-
----
-Keep improving, raise the bar and escape mediocrity
