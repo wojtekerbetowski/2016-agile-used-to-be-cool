@@ -70,7 +70,7 @@ Trust & decision making
 What is your organization optimized for?
 
 ---
-##Taking days off?
+Taking days off?
 
 ---
 Kanban limits
